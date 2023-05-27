@@ -13,7 +13,7 @@ Create multiple stopwatchs with labels. You can find a live demo [here](https://
 * [License](#license) 
 
 ## Screenshot
-![Project Screenshot](https://i.imgur.com/2xBifzH.png)
+![Project Screenshot](./screenshot)
 
 ## Why I Created this Project
 Mainly to use with work irl.
